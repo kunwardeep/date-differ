@@ -4,10 +4,11 @@
   "description": "Tells the number of days between two dates",
   "main": "main.js",
   "scripts": {
-    "test": "jasmine test.js"
+    "test": "jasmine *.spec.js",
+    "app": "node main.js"
   },
   "author": "kunwardeep singh bedi",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "3.19.0",
     "jasmine": "2.6.0"

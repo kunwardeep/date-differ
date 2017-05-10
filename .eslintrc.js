@@ -12,7 +12,6 @@ module.exports = {
   // Possible Errors
     "comma-dangle": 2,
     "no-cond-assign": 2,
-    "no-console": [2, {allow: ["warn"]}],
     "no-constant-condition": 2,
     "no-control-regex": 2,
     "no-debugger": 2,
@@ -119,7 +118,6 @@ module.exports = {
     "no-path-concat": 2,
     "no-process-exit": 2,
     "no-restricted-modules": 2,
-    "no-sync": 2,
 
   // Stylistic Issues
     "block-spacing": [2, "always"],
